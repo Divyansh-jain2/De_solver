@@ -2,9 +2,9 @@
 
 The loss function of a Neural Network is usually described by some property including the predicted values of a model and the true values of the model, for example: 
 
-\[ 
+$$ 
 \text{loss} = (y_{\text{true}} - y_{\text{predicted}})^2 
-\]
+$$
 
 The loss function is something that we want to minimize to get an optimal model, i.e. \(\text{loss} \to 0\).
 
