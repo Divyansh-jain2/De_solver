@@ -1,6 +1,6 @@
 # Solving Ordinary Differential Equations Using Neural Networks
 
-## Author: Divyansh Jain (B23397)
+## Author: Divyansh Jain
 
 ### Overview
 
