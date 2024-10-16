@@ -10,21 +10,21 @@ The loss function is something that we want to minimize to get an optimal model,
 
 Differential equations, like the ODE: 
 
-\[ 
+$$ 
 y'(x) = y(x) 
-\]
+$$
 
 with condition 
 
-\[ 
+$$ 
 y(x = 0) = 1 
-\]
+$$
 
 can be put in the form 
 
-\[ 
+$$ 
 y'(x) - y(x) = 0, 
-\]
+$$
 
 i.e. the right-hand side of the equation can be set to zero. Here, \(y'(x)\) refers to the derivative of \(y\) with respect to \(x\).
 
